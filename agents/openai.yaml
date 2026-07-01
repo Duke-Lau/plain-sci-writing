@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plain SCI Writing"
+  short_description: "Make SCI prose clear and human"
+  default_prompt: "Use $plain-sci-writing to make this SCI manuscript paragraph clearer, more human, and less template-like."
